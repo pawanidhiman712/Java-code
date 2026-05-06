@@ -19,5 +19,3 @@ public class Largest {
             System.out.println("Largest number is: " + c);
     }
 }
-        
-    

@@ -6,7 +6,7 @@ public class IntToDouble {
         System.out.print("Enter an integer: ");
         int num = sc.nextInt();
 
-        double d = (double) num;   // Type casting int to double
+        double d = (double) num;   
 
         System.out.println("Integer value: " + num);
         System.out.println("Double value: " + d);
