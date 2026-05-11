@@ -4,36 +4,36 @@ abstract class Main5 {
 }
 
 class Car extends Vehicle {
-    @Override
+    
     void start() {
         System.out.println("Car start");
     }
 
-    @Override
+    
     void stop() {
         System.out.println("Car stop");
     }
 }
 
 class Bike extends Vehicle {
-    @Override
+    
     void start() {
         System.out.println("bike start");
     }
 
-    @Override
+    
     void stop() {
         System.out.println("bike stop");
     }
 }
 
 class Bus extends Vehicle {
-    @Override
+    
     void start() {
         System.out.println("bus start");
     }
 
-    @Override
+    
     void stop() {
         System.out.println("bus stop");
     }
